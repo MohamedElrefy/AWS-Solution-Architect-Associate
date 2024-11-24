@@ -4,7 +4,7 @@
 This project demonstrates the design of a scalable, secure, and highly available infrastructure using AWS services. The setup is managed through the AWS Management Console.
 
 ## Architecture Diagram
-![AWS Architecture Diagram](Project Structure.jpeg)
+![AWS Architecture Diagram]('/home/mohamed/Desktop/AWS/Project Structure.jpeg' )
 
 ## Components
 - **VPC**: CIDR 10.0.0.0/16 with multiple subnets across two Availability Zones.
