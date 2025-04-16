@@ -1,7 +1,7 @@
 # AWS Architecture for Scalable Infrastructure
 
 ## Overview
-This project demonstrates the design of a scalable, secure, and highly available infrastructure using AWS services. The setup is managed through the AWS Management Console.
+This project demonstrates the design of a scalable, secure, and highly available infrastructure using AWS services.
 
 ## Architecture Diagram
 ![AWS Architecture Diagram](ProjectStructure.jpeg )
